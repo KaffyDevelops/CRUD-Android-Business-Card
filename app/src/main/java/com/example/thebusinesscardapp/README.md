@@ -1,6 +1,5 @@
 # The Business Card App
 
-
 This is a Jetpack Compose business card app with CRUD operations using SQLite.
 
 ## Features
@@ -12,3 +11,6 @@ This is a Jetpack Compose business card app with CRUD operations using SQLite.
 - Clone the repository: `git clone https://github.com/KaffyDevelops/CRUD-Android-Business-Card.git`
 - Open in Android Studio
 - Build and run the project
+
+## Screenshot
+<img src="simpleapp.jpg">
