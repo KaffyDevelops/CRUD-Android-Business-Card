@@ -13,4 +13,4 @@ This is a Jetpack Compose business card app with CRUD operations using SQLite.
 - Build and run the project
 
 ## Screenshot
-<img src="simpleapp.jpg">
+<img src="https://github.com/KaffyDevelops/CRUD-Android-Business-Card/blob/master/simpleapp.jpg">
